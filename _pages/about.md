@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the 
+2022年6月获得复旦大学计算机应用技术专业博士学位。同年12月起，在东华大学计算机科学与技术学院担任讲师，从事人工智能方面的科研工作。目前已在国际顶级会议期刊发表论文10余篇。参与国家自然科学基金项目和科技部重大科研项目各1项。担任IEEE Transactions on Affective Computing、IEEE-ACM Transactions on Audio, Speech and Language Processing、Neurocomputing、ICASSP、ICME等期刊和会议审稿人。
 
-A data-driven personal website
+主要研究论文
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
