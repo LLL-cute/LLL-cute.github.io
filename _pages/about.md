@@ -38,26 +38,11 @@ Selected Publications
 Students
 ======
 LIU Jun (2023- ）
-HE Xiaoliang 2023- ）
+HE Xiaoliang (2023- ）
+DONG Kangjie (2024- ）
+LI Xiang (2024- ）
+CAO Jingkai (2024- ）
+WANG Shengqi (2024- ）
 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml]
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like lob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you 
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), 
