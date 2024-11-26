@@ -42,7 +42,7 @@ HE Xiaoliang (2023- ）\
 DONG Kangjie (2024- ）\
 LI Xiang (2024- ）\
 CAO Jingkai (2024- ）\
-WANG Shengqi (2024- ）\
+WANG Shengqi (2024- ）
 
 
 
